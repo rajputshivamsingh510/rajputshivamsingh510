@@ -3,7 +3,7 @@
 
 <p align="center">
 I build machine learning and data-driven projects — from predictive models to computer vision systems —
-and I'm currently deepening my skills in Transformers and Generative AI (LangChain).
+and I'm currently deepening my skills in Transformers and Generative AI (LangChain and LLMs).
 </p>
 
 ---
